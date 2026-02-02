@@ -1,1 +1,2 @@
-from .views import *
+from .blogs import *
+from .auth import *
